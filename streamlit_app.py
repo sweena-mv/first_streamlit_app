@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title("My Healthy dinner")
 streamlit.header("Beakfast menu")
-streamlit.text("Menu1")
-streamlit.text("Menu2")
-streamlit.text("Menu3")
+streamlit.text("Omega 3 & Blueberry Oatmeal")
+streamlit.text("Kale, Spinach & Rocket Smoothie")
+streamlit.text("Hard-Boiled Free-Range Egg")
